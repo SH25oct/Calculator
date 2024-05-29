@@ -1,0 +1,38 @@
+@media screen and (max-width:480px ){
+    body {
+        background-color: black;
+    }
+   .container {
+    width: 100vw;
+    
+   }
+   .calculator {
+    width: 100%;
+    padding: 0;
+    /* margin-bottom: 70px; */
+   }
+   form{
+    height: 90%;
+    width: 100%;
+    text-align: center;
+   }
+   .calculator form input {
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+   }
+   form input.equal {
+    width: 170px;
+}
+.display {
+    font-size: 60px !important;
+    height: 100% !important;
+    padding-bottom: 90px;
+    
+}
+form .bg-display {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
