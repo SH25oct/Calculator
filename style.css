@@ -4,7 +4,6 @@
     box-sizing: border-box;
     font-family:'Times New Roman', Times, serif;
     font-weight: 800;
-    overflow: hidden;
 }
 body {
     height: 100vh;
